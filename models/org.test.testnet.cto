@@ -1,7 +1,7 @@
 /**
 * My commodity trading network
 */
-namespace org.example.mynet
+namespace org.test.testnet
 asset Commodity identified by tradingSymbol {
   o String tradingSymbol
   o String description
